@@ -4,3 +4,5 @@ Lock-Byte is a web-based file encryption and decryption tool that uses AES-CBC e
 Update on 2025-01-26 - Commit 0
 
 Update on 2025-01-26 - Commit 1
+
+Update on 2025-01-28 - Commit 0
